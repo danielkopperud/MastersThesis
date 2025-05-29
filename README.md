@@ -32,7 +32,7 @@ The dataset used in this study consists of MRI images categorized into four stag
 - Moderate Dementia  
 
 **Source:** Alzheimer MRI Dataset, Kaggle  
-[Link to dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset)  
+[Link to dataset](https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data?select=Data)  
 Accessed: 9 May 2025
 
 ## Evaluation Metrics
